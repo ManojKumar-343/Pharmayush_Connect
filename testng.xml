@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Pharmayush Connect - Full Regression Suite" verbose="1">
+
+    <!-- Admin Module Tests -->
+    <test name="Admin Module">
+        <classes>
+            <class name="Tests.PharmaAdmin_Test"/>
+        </classes>
+    </test>
+
+    <!-- Doctor Module Tests -->
+    <test name="Doctor Module">
+        <classes>
+            <class name="Tests.PharmaDoctor_Test"/>
+        </classes>
+    </test>
+
+    <!-- Wallet Module Tests -->
+    <test name="Wallet Module">
+        <classes>
+            <class name="Tests.Wallet_Checking_test"/>
+        </classes>
+    </test>
+
+</suite>
