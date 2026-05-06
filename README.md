@@ -161,7 +161,7 @@ Tests performed for **Wallet** functionality:
 
 **1. Clone this repository**
 ```
-git clone https://github.com/YourUsername/pharmayush-connect-automation-testing.git
+git clone https://github.com/ManojKumar-343/Pharmayush_Connect.git
 ```
 
 **2. Open in Eclipse**
