@@ -14,7 +14,7 @@ This repository contains automated test scripts developed during on-job
 training at Suffix E Solutions, Thiruvananthapuram, to validate core
 functionalities across Admin, Doctor, and Wallet modules.
 
-**Application URL:** https://gspedia.com/projects/pharmdoctor
+**Application URL:** https://pharmayushconnect.com/
 
 ---
 
